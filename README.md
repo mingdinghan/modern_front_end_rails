@@ -14,6 +14,7 @@ Application Context:
 ## Progress
 
 1. Set up Rails with TypeScript and basic data modeling. Add views with no interactivity.
+2. Use Hotwire and Turbo to add dynamic behavior without actually writing JavaScript.
 
 ---
 
