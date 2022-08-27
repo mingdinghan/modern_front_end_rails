@@ -1,12 +1,19 @@
-## Modern Front-end Development with Rails
+## Modern Front-end Development with Rails (2nd edition)
 
-Enhance the user experience of a pre-seeded Rails7 application using front-end tools from the Rails ecosystem (Hotwire, Stimulus, Turbo, and Webpacker) and tools from the JavaScript ecosystem (esbuild, TypeScript, and React)
+Enhance the user experience of a pre-seeded Rails7 application using tools from
+- Rails ecosystem (Hotwire, Turbo, Stimulus)
+- JavaScript ecosystem (TypeScript, React)
+- packaging and asset pipeline (jsbundling-rails with esbuild, css-bundling-rails with Tailwind CSS, Propshaft)
 
-Context: music festival webapp, where multiple bands will perform at various concerts. This app contains a schedule of all the concerts and venues.
+Application Context:
+- A music festival webapp, where multiple bands will perform at various concerts. This app contains a schedule of all the concerts and venues.
+- Things to be built
+  - Schedule Page
+  - Concert Display Page
 
-Things to be built:
-- Schedule Page
-- Concert Display Page
+## Progress
+
+1. Set up Rails with TypeScript and basic data modeling. Add views with no interactivity.
 
 ---
 
